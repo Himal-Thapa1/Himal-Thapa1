@@ -16,4 +16,30 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
+<p align="center">
 <img src="https://media.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif">
+</p>
+<h2>A Little Bit About Me✌</h2>
+
+```yaml
+#include<stdio.h>
+#include<learnme.h>
+int main(){
+  name: Himal_Thapa_Magar;
+  from: Gandaki,Nepal;
+  Education[
+    "Self taught pirogrammer😁",
+    "Currently enrolled in BSC. CSIT",
+  ]
+  what_interests_me[
+    "Cross Platform Application Development",
+    "Web Development kinda",
+    "Basically everything that runs on 0 and 1",
+  ]
+  hobbies[
+    "Life",
+    "movies",
+    "basically nature",
+  ]
+}
+```
