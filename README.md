@@ -1,9 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello there!✌&animation=fadeIn&height=100&section=header"/>
-</p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello There!✌&animation=fadeIn&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello_There!✌&animation=fadeIn&height=100&section=header"/>
 </p>
 <h1 align="center">
   Wanna talk about something? let's have a Chat!💬
