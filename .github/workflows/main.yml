@@ -1,7 +1,6 @@
 name: Generate Datas
 
 on:
-<<<<<<< HEAD
   schedule: # execute every sunday
     - cron: "0 0 * * Sun"
   workflow_dispatch:
