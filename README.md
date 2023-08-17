@@ -62,4 +62,4 @@ int main(){
 </p>
 <h2> 📈 &nbsp;My GitHub History?</h2>
 
-![Snake animation](https://github.com/Himal-Thapa1/Himal-Thapa1/blob/output/github-contribution-grid-snake.svg)
+[comment]: <> ![Snake animation](https://github.com/Himal-Thapa1/Himal-Thapa1/blob/output/github-contribution-grid-snake.svg)
